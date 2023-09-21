@@ -1,0 +1,164 @@
+@media screen   and (max-width:1679px){
+    .contact{right: 55px; }
+} 
+
+
+@media screen and (max-width:1279px) {
+    .conten-text > h1 {font-size: 45px;}
+    .conten-text > h1 > span{font-size: 45px;}
+    .banner-img img{width: 100%;}
+    .section-tittle{padding: 40px  40px;}
+    .newletter-content{width: 42%; }
+    .box { width: 170px; height: 170px;}
+    .box h4{font-size: 17px;}
+    .slick-prev:before{display: none; }
+    .slick-prev {display: none;}
+    .slick-next:before{display: none;}
+    .contact{position: static; width: 100% ; margin-left: 10px; margin-top: 50px;}
+    .footer-tittle{text-align: center;}
+    .call-gmail-main {display: flex;justify-content: center;}
+    .footer-tittle p {margin: 0 auto; max-width: 70%;}
+}
+
+@media screen and (max-width:991px) {
+    #baanner{margin-top: 50px;}
+    .conten-text > h1 {font-size: 38px;}
+    .conten-text > h1 > span{font-size: 35px;}
+    .newletter-input input{width:416px; margin-left: -5px; padding-left: 20px;}
+    .scriber {position: absolute;top: 30px;left: 275px}
+    .section-tittle{padding: 40px  10px; display: flex;flex-wrap: wrap;}
+    .skill-content p{max-width: 100%; padding-bottom: 20px;}
+    .newletter-content h2{font-size: 38px;}
+    .col-marketing h4{font-size: 17px;}
+    #mybestskill{margin-top: 100px;}
+    .resume-text{padding-top: 10px;}
+    .skill-content h2 {font-size: 38px;}
+    .box {width: 120px;height: 120px;padding: 28px 5px;}
+    .box h4{font-size: 14px; padding-top: 10px;}
+    .progress-img img {width: 100%; margin-left: 0;}
+    .newletter-contents h2{font-size: 38px;}
+    .newletter-contents p {max-width: 100%;}
+    #happy-slient { margin-top: 100px;}
+    .skill-hose img{width: 100%;}
+    #balog-new{margin-top: 100px;}
+    #footer{margin-top: 150px;}
+    #servicesour{margin-top: 100px;}
+    .box img{width: 45px;}
+   
+
+
+
+}
+
+
+@media screen and (max-width:767px) {
+    .menu ul {display: none;}
+    .bar-btn-toggle{display: block;}
+   .logo{width: 20%}
+   .nav-on ul{display: block; position: absolute; right:0px; top: 70px; width: 40%;  height:100vh ; background-color: #7e5703; text-align: center; transition: all 4s linear;}
+   .nav-on ul li{padding: 35px  0; }
+   .nav-on ul li a{font-size: 18px; font-weight: 600;}
+   .menu.nav-on .bar-btn-toggle::after { width: 100%; transition: all 0.4s ease-in;}
+    .menu.nav-on .bar-btn-toggle::before {width: 90%; transition: all 0.4s ease-in;}
+    .menu.nav-on  .middle::after {width: 80%; transition: all 0.4s ease-in;}
+    .menu{ order: 2; margin-left: -20px;}
+    .col-content {width: 100%;}
+    .col-banner-img{width: 100%;padding-top: 35px;}
+    .conten-text > h1 {font-size: 35px; line-height: 40px;}
+    .conten-text > h1 > span{font-size: 35px; line-height: 40px;}
+    .newletter-content{width: 100%;}
+    .newletter-input{width: 100%;}
+    #newlrtter { width: 100%; margin-top: -30px;}
+    .newletter-content p {padding-bottom: 40px; max-width: 55%;}
+    .sikills{width: 100%;}
+    .bar-btn{margin-left: 195px; }
+    .bar-btn .get {padding: 12px 30px;}
+    .skill-content{width: 100%;}
+    .skillimg img{width: 100%;}
+    .newletter-content h2{font-size: 30px;}
+    .skill-content h2 {font-size: 30px;}
+    .skill-content h2 { padding-top: 30px;}
+    #servicesour{margin-top: 100px;}
+    .col-apps{width: 100%;}
+    .col-progress{width: 100%;}
+    .box {width: 170px;height: 170px;}
+    #apps-application{margin-top: 50px;}
+    .progress-img img{padding-top: 45px;}
+    .newletter-contents{width: 100%;}
+    .newletter-input-menu{width: 100%;}
+    .newletter-contents p {padding-bottom: 40px;}
+    #mybestskill {margin-top: 60px; }
+   .newletter-input-menu-icon{width: 100%;}
+   .footer-tittle p{max-width: 100%;}
+   .vikram{margin-left: 10px;}
+   .gmain{margin-left: -45px;}
+   .caol{margin-left: 55px;}
+   .sani{margin-left: -90px;}
+   .banner-hero::after{display: none;}
+
+
+}
+
+
+
+
+@media screen and (max-width:575px) {
+    .logo { width: 35%;}
+    .logo img{width: 65%;}
+    .bar-btn .get {padding: 6px 16px; margin-left: 10px;}
+    .bar-btn{margin-left: 5px;}
+    .nav-on ul{width: 100%; right: 0;}
+    .conten-text > p{padding: 10px  0;}
+    .conten-text{padding: 0;}
+    .newletter-content h2{font-size: 28px; padding-bottom: 12px;}
+    .newletter-input input{width:280px; margin-left: -5px; padding-left: 20px;}
+    .scriber { position: absolute; top: 40px;left: 185px;}
+    .scriber span img{margin-left: 10px;}
+    .newletter-content p{ max-width: 100%; padding-bottom: 20px;}
+    .skill-content h2 { padding-top: 30px;}
+    .col-marketing h4{font-size: 11px;}
+    .conten-text > h1 {font-size: 30px; line-height: 40px; max-width: 100%;}
+    .conten-text > h1 > span{font-size: 26px; line-height: 40px;}
+    #servicesour{margin-top: 50px;}
+    .col-ux-desgin{width: 100%;}
+    .box {width: 100%; margin-top: 20px}
+    .box h4 {font-size: 18px;padding-top: 30px}
+    #happy-slient { margin-top: 55px;}
+    #balog-new{margin-top: 50px;}
+    .house-texst {padding-top: 10px;}
+    .skill-content h2 {padding:15px 0; font-size: 20px;}
+    .skill-content p { padding-bottom: 0px;}
+    #social-media {margin-top: 60px;}
+    .newletter-contents p {padding-bottom: 30px;}
+    .newletter-contents h2 {font-size: 30px;}
+    #servicesour{margin-top: 50px;}
+    #footer{margin-top: 50px;}
+    .footer-tittle h2 {font-size: 30px;}
+    .footer-tittle p{max-width: 100%;}
+    .finput {width: 260px; margin-left: 10px; margin-top: 20px; padding-left: 20px}
+    .finput-main {margin-left: 10px !important;}
+    .finput-main-massage {margin-left: 10px !important;padding-left: 20px;}
+    .user a {font-size: 12px; display: inline-block; }
+    .vikram{margin-left: 10px;}
+    .gmain{margin-left: -75px;}
+    .caol{margin-left: 55px;}
+    #header-main {padding: 5px  0;}
+    .sticky #header-main { padding: 10px 0;}
+    .logo a img { width: 70% !important;}
+    .sani{margin-left: -90px;}
+    #baanner { margin-top: 0px;}
+    .drop{position: static; top: 0px; left: 5px; text-align: center; height: 100vh;}
+    .drop ul{position: static; }
+    .marketing-main{padding-top: 25px;}
+    
+    
+
+}
+
+
+
+@media screen and (max-width: 479px){
+    .logo a img {width: 65% !important;}
+
+}
+
